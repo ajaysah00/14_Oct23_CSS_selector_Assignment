@@ -1,0 +1,18 @@
+.box{
+    display: grid;
+    justify-content: center;
+    margin-top: 300px;
+}
+.button{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(80, 80, 224);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 30px;
+}
+.button:hover{
+    box-shadow: 20px 15px 10px gray;
+    cursor: pointer;
+}

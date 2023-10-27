@@ -1,0 +1,11 @@
+
+ul li {
+    list-style: none;
+    float: left;
+   margin: 20px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 30px;
+   
+}

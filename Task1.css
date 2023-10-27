@@ -1,0 +1,20 @@
+.firsth1{
+    color: red;
+    background-color: antiquewhite;
+}
+
+ li a{
+   text-decoration: none;
+    color: red;
+}
+a[class="about"]{
+    color: blue;
+    background-color: gray;
+}
+ul li::marker{
+    color: green;
+}
+.lastpara::first-letter{
+color: red;
+font-size: 66px;
+}
